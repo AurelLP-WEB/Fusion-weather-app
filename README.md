@@ -1,6 +1,6 @@
 <h1 align="center">Weather App</h1> 
 
-![weather app cover](https://user-images.githubusercontent.com/91532881/166434542-76727ccb-0c98-4646-84fb-58e86d7ec3ff.png)
+
 
 <h2 align="center">Web application to show the current and upcoming week weather forecast.</h2>    
 
@@ -17,16 +17,9 @@
 
      
     
-  <h3 align="center"><a href="https://mohit-weather-app.vercel.app/"><strong>Want to see live preview »</strong></a></h3>
-   
+  
     
-  <p align="center"> 
-    <br />&#10023;
-    <a href="#Demo">View Demo</a>   &#10023;  
-    <a href="https://github.com/m-sehrawat/Weather-App/issues">Report Bug</a>    &#10023;
-    <a href="#Getting-Started">Getting Started</a> &#10023; <a href="#Install">Installing</a> &#10023;    
-    <a href="#Contact">Author</a> &#10023;
-  </p>
+  
 
 
 
@@ -51,21 +44,8 @@ To use the app, type a name of the city and click on search/press Enter or else 
 - Cool zoom-in zoom-out animations 
 - Responsive for every screen size.
 
-<br/>
 
 
-
-![Mobile responsive](https://user-images.githubusercontent.com/91532881/166426445-3aeee29c-bca7-4d95-a082-70269bb192fd.png)
-
-![weatherapp](https://user-images.githubusercontent.com/91532881/166334689-ac7807e2-6d40-4a8f-b232-c53955f6ea03.png)
-
-![weatherapp2](https://user-images.githubusercontent.com/91532881/166334796-48e0faa6-3e3c-46e5-9cd1-857da895379d.png)
-
-<br />
-
-## Demo
-
-https://user-images.githubusercontent.com/91532881/166426542-b271be2e-e7d9-4b3c-bfe7-5e9e51e26be4.mp4
 
 
 <br/>
